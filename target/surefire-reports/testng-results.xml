@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="105" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="105" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+      <class name="mavenproject.mvnpjt.AppiumTest">
+        <test-method status="PASS" signature="Androidtest()[pri:0, instance:mavenproject.mvnpjt.AppiumTest@26aa12dd]" name="Androidtest" duration-ms="1" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Androidtest -->
+        <test-method status="PASS" signature="IOsApp()[pri:0, instance:mavenproject.mvnpjt.AppiumTest@26aa12dd]" name="IOsApp" duration-ms="1" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOsApp -->
+      </class> <!-- mavenproject.mvnpjt.AppiumTest -->
+      <class name="mavenproject.mvnpjt.RestAssuredTest">
+        <test-method status="PASS" signature="ApiEnable()[pri:0, instance:mavenproject.mvnpjt.RestAssuredTest@1c3a4799]" name="ApiEnable" duration-ms="12" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiEnable -->
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:mavenproject.mvnpjt.RestAssuredTest@1c3a4799]" name="DeleteTwitter" duration-ms="0" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+      </class> <!-- mavenproject.mvnpjt.RestAssuredTest -->
+      <class name="mavenproject.mvnpjt.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:mavenproject.mvnpjt.SeleniumTest@131276c2]" name="BrowserAutomation" duration-ms="1" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:mavenproject.mvnpjt.SeleniumTest@131276c2]" name="ElementsUI" duration-ms="0" started-at="2020-10-27T00:08:54 IST" finished-at="2020-10-27T00:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- mavenproject.mvnpjt.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
